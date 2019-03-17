@@ -1,0 +1,118 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Brian",
+      "quotes": [
+        "I'm not a HufflePuff!",
+        "Why does this not work?? Raquel is an object.",
+        "Cool",
+        "Hey",
+        "I saw a bird today",
+        "We told you"
+      ],
+      "slaps": 7,
+      "claps": 12,
+      "image": "https://i.ytimg.com/vi/SNggmeilXDQ/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Raquel",
+      "quotes": [
+        "Typical HufflePuff.",
+        "Shut up, Amir.",
+        "You breathed in my mouth!!!",
+        "shtop it! shtop it! shtop it! amir!!!",
+        "We told you"
+      ],
+      "slaps": 0,
+      "claps": 21,
+      "image": "https://www.usmagazine.com/wp-content/uploads/2018/06/Smoothie-the-Cat-Instagram-zoom.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rob",
+      "quotes": [
+        "Imagine Amir as a girl...",
+        "Always start with 'No offense but...'",
+        "We told you"
+      ],
+      "slaps": 26,
+      "claps": 6,
+      "image": "https://usercontent2.hubstatic.com/9116885_f520.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Amir",
+      "quotes": [
+        "What you say???",
+        "No offense, but how do you get Chinese girls?",
+        "Rakky",
+        "Voconcy",
+        "What's wrong with your ears???",
+        "VAKANCY",
+        "You didn't tell me"
+      ],
+      "slaps": 378,
+      "claps": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bear_Alaska_%283%29.jpg"
+    },
+    {
+      "name": "Naomi",
+      "image": "https://cdn4.techly.com.au/wp-content/uploads/2015/09/Surprised-Koala3-799x423.jpg",
+      "quotes": [
+        "HAHAHAHAHAHA",
+        "I didn't feel like listening."
+      ],
+      "slaps": 2,
+      "claps": 50,
+      "id": 5
+    },
+    {
+      "name": "Carlo",
+      "image": "http://www.animalspot.net/wp-content/uploads/2017/08/Penguin.jpg",
+      "quotes": [
+        "How are you?",
+        "'SUP YO!",
+        "I'm not drunk..."
+      ],
+      "slaps": 0,
+      "claps": 0,
+      "id": 6
+    },
+    {
+      "name": "Terrance",
+      "image": "https://cf-s3.petcoach.co/uploads/breed/265/1485792088-yorkshire-terrier-breed.jpg",
+      "slaps": 0,
+      "claps": 1,
+      "quotes": [
+        "Imma stop",
+        "Nah, lemme stop",
+        "GOT EM"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Kevin",
+      "image": "https://inhabitat.com/wp-content/blogs.dir/1/files/2014/05/Mimic-Octopus-Walking.jpg",
+      "quotes": [
+        "I'm allergic to peanut butter",
+        "Read my story",
+        "I have two dogs"
+      ],
+      "slaps": 3,
+      "claps": 2,
+      "id": 8
+    },
+    {
+      "name": "Eric",
+      "image": "https://images.spot.im/v1/production/pgo76u0pafuzgd1ifgt4",
+      "quotes": [
+        "how does he/she do it??"
+      ],
+      "slaps": 0,
+      "claps": 0,
+      "id": 9
+    }
+  ]
+}
